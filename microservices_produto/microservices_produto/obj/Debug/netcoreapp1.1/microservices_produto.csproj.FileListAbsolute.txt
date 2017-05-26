@@ -1,9 +1,0 @@
-B:\Projetos\microservices\microservice-produto\microservices_produto\microservices_produto\bin\Debug\netcoreapp1.1\microservices_produto.deps.json
-B:\Projetos\microservices\microservice-produto\microservices_produto\microservices_produto\bin\Debug\netcoreapp1.1\microservices_produto.runtimeconfig.json
-B:\Projetos\microservices\microservice-produto\microservices_produto\microservices_produto\bin\Debug\netcoreapp1.1\microservices_produto.runtimeconfig.dev.json
-B:\Projetos\microservices\microservice-produto\microservices_produto\microservices_produto\bin\Debug\netcoreapp1.1\microservices_produto.dll
-B:\Projetos\microservices\microservice-produto\microservices_produto\microservices_produto\obj\Debug\netcoreapp1.1\microservices_produto.csprojResolveAssemblyReference.cache
-B:\Projetos\microservices\microservice-produto\microservices_produto\microservices_produto\obj\Debug\netcoreapp1.1\microservices_produto.AssemblyInfo.cs
-B:\Projetos\microservices\microservice-produto\microservices_produto\microservices_produto\bin\Debug\netcoreapp1.1\microservices_produto.pdb
-B:\Projetos\microservices\microservice-produto\microservices_produto\microservices_produto\obj\Debug\netcoreapp1.1\microservices_produto.dll
-B:\Projetos\microservices\microservice-produto\microservices_produto\microservices_produto\obj\Debug\netcoreapp1.1\microservices_produto.pdb
