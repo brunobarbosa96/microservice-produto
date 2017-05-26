@@ -1,6 +1,0 @@
-B:\Fimple\Web\FimpleWebCore\microservice_produto\microserviceProdutoRepository\bin\Debug\netcoreapp1.1\microserviceProdutoRepository.deps.json
-B:\Fimple\Web\FimpleWebCore\microservice_produto\microserviceProdutoRepository\bin\Debug\netcoreapp1.1\microserviceProdutoRepository.dll
-B:\Fimple\Web\FimpleWebCore\microservice_produto\microserviceProdutoRepository\bin\Debug\netcoreapp1.1\microserviceProdutoRepository.pdb
-B:\Fimple\Web\FimpleWebCore\microservice_produto\microserviceProdutoRepository\obj\Debug\netcoreapp1.1\microserviceProdutoRepository.AssemblyInfo.cs
-B:\Fimple\Web\FimpleWebCore\microservice_produto\microserviceProdutoRepository\obj\Debug\netcoreapp1.1\microserviceProdutoRepository.dll
-B:\Fimple\Web\FimpleWebCore\microservice_produto\microserviceProdutoRepository\obj\Debug\netcoreapp1.1\microserviceProdutoRepository.pdb
