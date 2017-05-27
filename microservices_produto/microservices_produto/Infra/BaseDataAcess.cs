@@ -7,10 +7,12 @@ namespace microservices_produto.Infra
 {
     public class BaseRepository
     {
-        protected string ConnectionString => "Server=tcp:demo-microservice.database.windows.net,1433;Initial " +
-                                             "Catalog=microservice-produto;Persist Security Info=False;" +
-                                             "User ID=microservice;Password=t&ste123;MultipleActiveResultSets=False;" +
-                                             "Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+        //protected string ConnectionString => "Server=tcp:demo-microservice.database.windows.net,1433;Initial " +
+        //                                     "Catalog=microservice-produto;Persist Security Info=False;" +
+        //                                     "User ID=microservice;Password=t&ste123;MultipleActiveResultSets=False;" +
+        //                                     "Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+
+        protected string ConnectionString => "Data Source=(localdb)\\v11.0;Initial Catalog=microservice;Integrated Security=True";
 
         private readonly SqlConnection _connection;
         private SqlCommand Command { get; set; }
